@@ -1,0 +1,4 @@
+#File locations
+#Fri May 12 00:27:05 EDT 2017
+ExecutableDirectory=/Users/joshuarosenthal/Desktop/JavaCode/Final/data/
+SourceDirectory=/Users/joshuarosenthal/Desktop/JavaCode/Final/data/
